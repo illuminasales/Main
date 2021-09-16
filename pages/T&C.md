@@ -13,7 +13,7 @@ Please read this page carefully before you submit any order to us. These terms t
 <details>
 <summary><strong>Who we are</strong></summary>
 <br>
-<p>We are just two person handling this page. We can always be contactable via WhatsApp or email using the contact details shared. </p>
+<p>We are just two person handling this page. We can always be contactable via Instagram or email using the contact details shared. Please be patient with us, as we could be busy with our main jobs while serving you. </p>
 </details>
 
 <details>
