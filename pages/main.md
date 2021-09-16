@@ -6,4 +6,4 @@ permalink: /main
 
 This is our very first product that we would like to introduce to you! 
 
-[Image Illumina](image: Illumina_5.png) 
+[Image Illumina](assets/img/Illumina_5.png) 
