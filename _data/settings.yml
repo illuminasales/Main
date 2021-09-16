@@ -11,6 +11,7 @@ menu:
 #- {name: 'Learning Resources', url: 'resources'}
 #- {name: 'Sample Posts',       url: 'sample-posts'}
 #- {name: 'Documentation',      url: 'documentation'}
+- {name: 'Main',               url: 'main'}
 - {name: 'About',              url: 'about'}
 - {name: 'Contact',            url: 'contact'}
 - {name: 'Portfolio',          url: 'portfolio'}
