@@ -17,7 +17,7 @@ Please read this page carefully before you submit any order to us. These terms t
 </details>
 
 <details>
-<summary>Pricing, Availability and Charges</summary>
+<summary><strong>Pricing, Availability and Charges</strong></summary>
 <br>
 <p>All orders are subject to availability and confirmation of the order price. The delivery fee will be charged in addition which may vary. Additional costs will be informed prior to payment so that the buyer can make an informed decision.</p>
 
@@ -29,7 +29,7 @@ Please read this page carefully before you submit any order to us. These terms t
 </details>
 
 <details>
-<summary>Shipping</summary>
+<summary><strong>Shipping</strong></summary>
 <br>
 <p>During the order process, we will attempt to deliver the products to you as soon as possible. The dispatch times may vary according to availability. If our supply of products is delayed by an event outside of our control, we will contact you as soon as possible to let you know. We will take the required steps to minimise the effect of delay for you. Provided we do this we will not be liable for delays caused by the event. </p>
 
@@ -40,7 +40,7 @@ Please contact us immediately if it is so. Although we do not provide a refund, 
 </details>
 
 <details>
-<summary>Exchange and refunds</summary>
+<summary><strong>Exchange and refunds</strong></summary>
 <br>
 <p>We have a strict Quality Check (QC) protocol for our products before we dispatch them out for delivery. If we find any products faulty, we will immediately replace them before delivering them to you!
 You can ask for a 1-to-1 exchange or refund within 7 days of purchase if what you have bought is faulty. However, a refund will only be initiated if the product is returned and we have checked that the other products are in tip top condition. Warranty for the product is limited to 3 months for the lights. </p>
