@@ -31,17 +31,17 @@ Please read this page carefully before you submit any order to us. These terms t
 <details>
 <summary>Shipping</summary>
 <br>
-During the order process, we will attempt to deliver the products to you as soon as possible. The dispatch times may vary according to availability. If our supply of products is delayed by an event outside of our control, we will contact you as soon as possible to let you know. We will take the required steps to minimise the effect of delay for you. Provided we do this we will not be liable for delays caused by the event. 
+<p>During the order process, we will attempt to deliver the products to you as soon as possible. The dispatch times may vary according to availability. If our supply of products is delayed by an event outside of our control, we will contact you as soon as possible to let you know. We will take the required steps to minimise the effect of delay for you. Provided we do this we will not be liable for delays caused by the event. </p>
 
-It is the buyer’s responsibility to ensure the details provided are correct.
+<p>It is the buyer’s responsibility to ensure the details provided are correct.</p>
 
-The courier service we engaged in will attempt delivery to the delivery address provided. If for whatever reasons, even after three deliveries attempted and still failed, the courier service will proceed to return the parcel to us. 
-Please contact us immediately if it is so. Although we do not provide a refund, we can attempt to deliver it again. However the buyer will have to bear the full delivery cost incurred.
+<p>The courier service we engaged in will attempt delivery to the delivery address provided. If for whatever reasons, even after three deliveries attempted and still failed, the courier service will proceed to return the parcel to us.
+Please contact us immediately if it is so. Although we do not provide a refund, we can attempt to deliver it again. However the buyer will have to bear the full delivery cost incurred. </p>
 </details>
 
 <details>
 <summary>Exchange and refunds</summary>
 <br>
-We have a strict Quality Check (QC) protocol for our products before we dispatch them out for delivery. If we find any products faulty, we will immediately replace them before delivering them to you!
-You can ask for a 1-to-1 exchange or refund within 7 days of purchase if what you have bought is faulty. However, a refund will only be initiated if the product is returned and we have checked that the other products are in tip top condition. Warranty for the product is limited to 3 months for the lights.
+<p>We have a strict Quality Check (QC) protocol for our products before we dispatch them out for delivery. If we find any products faulty, we will immediately replace them before delivering them to you!
+You can ask for a 1-to-1 exchange or refund within 7 days of purchase if what you have bought is faulty. However, a refund will only be initiated if the product is returned and we have checked that the other products are in tip top condition. Warranty for the product is limited to 3 months for the lights. </p>
 </details>
