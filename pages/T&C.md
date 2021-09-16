@@ -11,7 +11,7 @@ Terms of Sales
 Please read this page carefully before you submit any order to us. These terms tells you who we are, how the products are provided to you, what may be done if there is a problem and other important information
 
 <details>
-<summary>Who we are</summary>
+<summary><strong>Who we are</strong></summary>
 <br>
 We are just two person handling this page. We can always be contactable via WhatsApp or email using the contact details shared. 
 </details>
