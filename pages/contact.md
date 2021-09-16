@@ -4,4 +4,5 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+The sales of Illumina Teeth is handled via the Instagram. However, you may contact us via e-mail: 
+[Email](mailto:illumi.sales@gmail.com). If you have any questions regarding the product, you may DM us directly on [Instagram](http://instagram.com) on your enquiry. 
