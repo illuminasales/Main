@@ -1,5 +1,4 @@
-# Millennial
-#Illuminate Teeth
+# Illuminate Teeth
 This page is supported by Millenial, which is a Jekyll Theme. All credits goes to the owner, Paul Le, which you can view the demo site here. [Millenial demo site](https://lenpaul.github.io/Millennial/)
 
 This is an open source page that promotes Illuminate light. We are always open to suggestions and changes! :)
