@@ -15,9 +15,9 @@ Please read this page carefully before you submit any order to us. These terms t
 <br>
 We are just two person handling this page. We can always be contactable via WhatsApp or email using the contact details shared. 
 </details>
-
+\
 <details>
-<summary>Pricing, Availability and Charges</summary>
+<summary><h2>Pricing, Availability and Charges</h2></summary>
 <br>
 All orders are subject to availability and confirmation of the order price. The delivery fee will be charged in addition which may vary. Additional costs will be informed prior to payment so that the buyer can make an informed decision.
 
