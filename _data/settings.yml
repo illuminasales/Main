@@ -16,6 +16,7 @@ menu:
 - {name: 'Contact',            url: 'contact'}
 - {name: 'Portfolio',          url: 'portfolio'}
 - {name: 'FAQ',                url: 'faq'}
+- {name: 'T&C',                url: 't&c'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
