@@ -11,19 +11,19 @@ Terms of Sales
 Please read this page carefully before you submit any order to us. These terms tells you who we are, how the products are provided to you, what may be done if there is a problem and other important information
 
 <details>
-<summary><h2>Who we are</h2></summary>
+<summary>Who we are</summary>
 <br>
 We are just two person handling this page. We can always be contactable via WhatsApp or email using the contact details shared. 
 </details>
-\
+
 <details>
-<summary><h2>Pricing, Availability and Charges</h2></summary>
+<summary>Pricing, Availability and Charges</summary>
 <br>
-All orders are subject to availability and confirmation of the order price. The delivery fee will be charged in addition which may vary. Additional costs will be informed prior to payment so that the buyer can make an informed decision.
+All orders are subject to availability and confirmation of the order price. The delivery fee will be charged in addition which may vary. Additional costs will be informed prior to payment so that the buyer can make an informed decision.\
 
-While we may take reasonable care to ensure that the details and prices are accurate, errors may occur. If any errors are found in the price of the goods, we will inform you as soon as possible. This will give you an option to reconfirm your order at the correct price or to cancel the order. If we are unable to contact you, we will treat the order as cancelled. If you cancel and we have yet to start on your order, you will receive a full refund.
+While we may take reasonable care to ensure that the details and prices are accurate, errors may occur. If any errors are found in the price of the goods, we will inform you as soon as possible. This will give you an option to reconfirm your order at the correct price or to cancel the order. If we are unable to contact you, we will treat the order as cancelled. If you cancel and we have yet to start on your order, you will receive a full refund.\
 
-The images of the products shown on our page are for illustrative purposes only. Although we try to display our products accurately, we cannot guarantee that the pictures will accurately reflect the product. Your product and its packaging may vary slightly from the images.
+The images of the products shown on our page are for illustrative purposes only. Although we try to display our products accurately, we cannot guarantee that the pictures will accurately reflect the product. Your product and its packaging may vary slightly from the images.\
 
 If you wish to make a change on the products you have ordered, please contact us. We will let you know if the change is possible. 
 </details>
